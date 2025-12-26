@@ -1,0 +1,15 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Project:</h2>
+H:\淘宝闲鱼卖的资料\39.51单片机万年历电子设计系统（带温度、闹钟、秒表）\51单片机万年历电子设计系统（带温度、闹钟、秒表）\03、单片机程序\02、程序（Keil版）\project.uvproj
+Project File Date:  08/05/2016
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling main.c...
+linking...
+Program Size: data=28.2 xdata=0 code=3772
+creating hex file from "project"...
+"project" - 0 Error(s), 0 Warning(s).
